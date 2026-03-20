@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: La danse des bandits         │
-│  Artist: Naps                        │
-│  Album: Les mains faites pour l'or   │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/39154dccd6846e23430649a173b91350.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Amber             │
+│  Artist: Zola             │
+│  Album: DIAMANT DU BLED   │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/29cd52e0f2ba0d5dcf2b2684cc71ef58.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Dracula        │
-│  Artist: Tame Impala   │
-│  Album: Deadbeat       │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Nouvelles   │
+│  Artist: PLK        │
+│  Album: 2069'       │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6fdced97d9b50bd507aed711953c8415.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: Telephones   │
-│  Artist: VACATIONS   │
-│  Album: Changes      │
-╰──────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/893290b8dace09f72ff2d17022e49670.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Maudit     │
+│  Artist: WeRenoi   │
+│  Album: Pyramide   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
