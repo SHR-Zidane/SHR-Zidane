@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c582e86a33fd4570fd57f5c57182d3be.png" heigth="100%" align="left" />
   <pre>╭───────────────────────────────╮
 │            music            x │
 ├───────────────────────────────┤
-│  Title: Lettre à une E-Girl   │
-│  Artist: Zéon Squad           │
-│  Album: ZEON CYPHER 2K25      │
+│  Title: Ya Tabtab Wa Dallaa   │
+│  Artist: Nancy Ajram          │
+│  Album: Ya Tabtab             │
 ╰───────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/cb1fd12b2f5946c784619a72ae2c352a.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Tranquillement          │
-│  Artist: Mister You             │
-│  Album: Arrête You si tu peux   │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/78daf51b7d10d7d3e8ad10101155efad.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Tamally Maak   │
+│  Artist: Amr Diab      │
+│  Album: Tamally Maak   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/cb1fd12b2f5946c784619a72ae2c352a.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────╮
-│               music               x │
-├─────────────────────────────────────┤
-│  Title: Le Guide De La Debrouille   │
-│  Artist: Mister You                 │
-│  Album: Arrête You si tu peux       │
-╰─────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37dca7cef371e7e15dcfd64ba268c074.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Nasini El Donya   │
+│  Artist: Ragheb Alama     │
+│  Album: El Hob El Kebir   │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
