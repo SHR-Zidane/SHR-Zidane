@@ -22,6 +22,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/cb1fd12b2f5946c784619a72ae2c352a.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────╮
+│               music               x │
+├─────────────────────────────────────┤
+│  Title: Le Guide De La Debrouille   │
+│  Artist: Mister You                 │
+│  Album: Arrête You si tu peux       │
+╰─────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/44c67eb70de95da3ac92773c0ceca4ba.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────╮
 │     music      x │
@@ -34,25 +46,13 @@
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9744d0d8a0d29a59cec173d5685588c0.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Cellophané     │
-│  Artist: Koba LaD      │
-│  Album: L' Affranchi   │
-╰────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9744d0d8a0d29a59cec173d5685588c0.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: O.G            │
-│  Artist: Koba LaD      │
-│  Album: L' Affranchi   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d4902ddc8bc9342f939d2636bd155112.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: X3 (feat. Gazo)   │
+│  Artist: ASHE 22          │
+│  Album: X3 (feat. Gazo)   │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
