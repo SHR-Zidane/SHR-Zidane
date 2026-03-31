@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37bf12ee84b51bd166e063b33f9a0303.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────╮
 │       music       x │
 ├─────────────────────┤
-│  Title: Zarzour     │
-│  Artist: Lartiste   │
-│  Album: Zarzour     │
+│  Title: Aventador   │
+│  Artist: Koba LaD   │
+│  Album: Aventador   │
 ╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/07cda7efdc5e92e0394cbb3e1aade451.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: 3 Daqat   │
-│  Artist: ABU      │
-│  Album: 3 Daqat   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b135fc9314b25cb0db93d681418f6e97.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Astroboy     │
+│  Artist: Zola        │
+│  Album: Cicatrices   │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37dca7cef371e7e15dcfd64ba268c074.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Nasini El Donya   │
-│  Artist: Ragheb Alama     │
-│  Album: El Hob El Kebir   │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b135fc9314b25cb0db93d681418f6e97.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Cicatrices   │
+│  Artist: Zola        │
+│  Album: Cicatrices   │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
