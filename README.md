@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/07cda7efdc5e92e0394cbb3e1aade451.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: 3 Daqat   │
-│  Artist: ABU      │
-│  Album: 3 Daqat   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b135fc9314b25cb0db93d681418f6e97.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Cicatrices   │
+│  Artist: Zola        │
+│  Album: Cicatrices   │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: 3DABI       │
-│  Artist: DRAGANOV   │
-│  Album: 3DABI       │
-╰─────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4a958978cf2fe0795a7ebd7ebd860f6b.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d4902ddc8bc9342f939d2636bd155112.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
 ├───────────────────────────┤
-│  Title: Maghrebins        │
-│  Artist: Mister You       │
-│  Album: Hasta la muerte   │
+│  Title: X3 (feat. Gazo)   │
+│  Artist: ASHE 22          │
+│  Album: X3 (feat. Gazo)   │
 ╰───────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/cb1fd12b2f5946c784619a72ae2c352a.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────╮
+│               music               x │
+├─────────────────────────────────────┤
+│  Title: Le Guide De La Debrouille   │
+│  Artist: Mister You                 │
+│  Album: Arrête You si tu peux       │
+╰─────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
