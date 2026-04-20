@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a305cc5670cd194b283d4e09dd997731.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Red Swan - TV Edit -   │
-│  Artist: YOSHIKI               │
-│  Album: Red Swan - TV Edit -   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9dfeb42b4edc012037eda9c569519272.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: 92i veyron     │
+│  Artist: Booba         │
+│  Album: Nero nemesis   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/397eeecef4b74c1b026b20e013e98451.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────╮
-│           music           x │
-├─────────────────────────────┤
-│  Title: Impostor Syndrome   │
-│  Artist: Sidney Gish        │
-│  Album: No Dogs Allowed     │
-╰─────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/720c770375a5a6ae88cc6fca5c999d65.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Distanciel    │
+│  Artist: J9ueve       │
+│  Album: Arc-en-ciel   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────────────────────────╮
-│                               music                                x │
-├──────────────────────────────────────────────────────────────────────┤
-│  Title: Fushigi Purupuru Pururin Rin!                                │
-│  Artist: Rumi Shishido                                               │
-│  Album: N.H.K ni Youkoso! Sound Collection - Sunnyside ni Youkoso!   │
-╰──────────────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b135fc9314b25cb0db93d681418f6e97.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Cicatrices   │
+│  Artist: Zola        │
+│  Album: Cicatrices   │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
