@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/870ed17cab9c4e6e9330732db56292e3.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: La          │
-│  Artist: Dystinct   │
-│  Album: LAYALI      │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Un peu de haine   │
+│  Artist: PLK              │
+│  Album: Mental            │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/07cda7efdc5e92e0394cbb3e1aade451.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: 3 Daqat   │
-│  Artist: ABU      │
-│  Album: 3 Daqat   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7db091a3575b88377c39d499f141c5c5.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: Switch Up        │
+│  Artist: Maes            │
+│  Album: Réelle vie 2.0   │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/78daf51b7d10d7d3e8ad10101155efad.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Tamally Maak   │
-│  Artist: Amr Diab      │
-│  Album: Tamally Maak   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/44c67eb70de95da3ac92773c0ceca4ba.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────╮
+│     music      x │
+├──────────────────┤
+│  Title: Putana   │
+│  Artist: Ninho   │
+│  Album: Destin   │
+╰──────────────────╯</pre>
 </div>
 <br clear="left"/>
