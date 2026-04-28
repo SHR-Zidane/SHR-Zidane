@@ -22,6 +22,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4fd59e2c72e8210f2b4907b2cfdde5ec.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Air Max   │
+│  Artist: Rim'K    │
+│  Album: Mutant    │
+╰───────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/39154dccd6846e23430649a173b91350.png" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
@@ -42,17 +54,5 @@
 │  Artist: Booba   │
 │  Album: Futur    │
 ╰──────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b135fc9314b25cb0db93d681418f6e97.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: Fuckboi      │
-│  Artist: Zola        │
-│  Album: Cicatrices   │
-╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
