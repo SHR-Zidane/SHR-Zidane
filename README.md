@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e3d7fb72a3f29880a7c5c5b9a81e668.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: Sbaart ou Tal Adabi   │
-│  Artist: Cheb Hasni           │
-│  Album: Sbaart Ou Tal Adabi   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/07cda7efdc5e92e0394cbb3e1aade451.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: 3 Daqat   │
+│  Artist: ABU      │
+│  Album: 3 Daqat   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0862cfbfffb3ba8af0fa8748a6af0928.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────╮
-│     music      x │
-├──────────────────┤
-│  Title: Filtré   │
-│  Artist: Timal   │
-│  Album: Arès     │
-╰──────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37dca7cef371e7e15dcfd64ba268c074.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Nasini El Donya   │
+│  Artist: Ragheb Alama     │
+│  Album: El Hob El Kebir   │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3a645b6bd72191f730a63d830fa2230a.png" heigth="100%" align="left" />
-  <pre>╭──────────────────╮
-│     music      x │
-├──────────────────┤
-│  Title: Kalash   │
-│  Artist: Booba   │
-│  Album: Futur    │
-╰──────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c188ab020ce5a225892a974dde68cc92.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Deux mille              │
+│  Artist: SCH                    │
+│  Album: JVLIVS III : Ad Finem   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
