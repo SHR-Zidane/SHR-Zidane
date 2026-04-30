@@ -22,37 +22,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6160f68b031a5fdb60d6917a9aca5ebb.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Santa Monica      │
-│  Artist: Moha La Squale   │
-│  Album: Santa Monica      │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3a645b6bd72191f730a63d830fa2230a.png" heigth="100%" align="left" />
+  <pre>╭──────────────────╮
+│     music      x │
+├──────────────────┤
+│  Title: Kalash   │
+│  Artist: Booba   │
+│  Album: Futur    │
+╰──────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7c1de9a1f9c35d3f285eb0566fb1d9fb.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Elle est bonne sa mère   │
-│  Artist: Vegedream               │
-│  Album: Ategban                  │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/893290b8dace09f72ff2d17022e49670.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Maudit     │
+│  Artist: WeRenoi   │
+│  Album: Pyramide   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: J-Lo        │
-│  Artist: Aribeatz   │
-│  Album: J-Lo        │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/367d639bd2530558b4a558a64ea8c20d.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Jamal      │
+│  Artist: WeRenoi   │
+│  Album: Telegram   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
