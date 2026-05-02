@@ -22,6 +22,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: Pilote (feat. Hamza)   │
+│  Artist: PLK                   │
+│  Album: Enna                   │
+╰────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d47e10945cd809556f5c207638722834.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Coffre plein   │
+│  Artist: Koba LaD      │
+│  Album: Détail         │
+╰────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/44c67eb70de95da3ac92773c0ceca4ba.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────╮
 │     music      x │
@@ -30,29 +54,5 @@
 │  Artist: Ninho   │
 │  Album: Destin   │
 ╰──────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/afb11fe36d60453bdb6b28ea49f41f5f.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Doudou          │
-│  Artist: Aya Nakamura   │
-│  Album: AYA             │
-╰─────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Nouvelles   │
-│  Artist: PLK        │
-│  Album: 2069'       │
-╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
